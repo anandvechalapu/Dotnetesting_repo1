@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Dotnetcom.Service
-build_property.ProjectDir = D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\232\202304284750\Dotnetcom\Dotnetcom.Service\
+build_property.ProjectDir = D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\232\202304283002\Dotnetcom\Dotnetcom.Service\

@@ -15,3 +15,11 @@ D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler
 D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\232\202304284750\Dotnetcom\Dotnetcom.Service\obj\Debug\net7.0\refint\Dotnetcom.Service.dll
 D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\232\202304284750\Dotnetcom\Dotnetcom.Service\obj\Debug\net7.0\Dotnetcom.Service.pdb
 D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\232\202304284750\Dotnetcom\Dotnetcom.Service\obj\Debug\net7.0\ref\Dotnetcom.Service.dll
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\232\202304283002\Dotnetcom\Dotnetcom.Service\obj\Debug\net7.0\Dotnetcom.Service.csproj.AssemblyReference.cache
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\232\202304283002\Dotnetcom\Dotnetcom.Service\obj\Debug\net7.0\Dotnetcom.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\232\202304283002\Dotnetcom\Dotnetcom.Service\obj\Debug\net7.0\Dotnetcom.Service.AssemblyInfoInputs.cache
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\232\202304283002\Dotnetcom\Dotnetcom.Service\obj\Debug\net7.0\Dotnetcom.Service.AssemblyInfo.cs
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\232\202304283002\Dotnetcom\Dotnetcom.Service\obj\Debug\net7.0\Dotnetcom.Service.csproj.CoreCompileInputs.cache
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\232\202304283002\Dotnetcom\Dotnetcom.Service\obj\Debug\net7.0\Dotnetcom.Service.dll
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\232\202304283002\Dotnetcom\Dotnetcom.Service\obj\Debug\net7.0\refint\Dotnetcom.Service.dll
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\232\202304283002\Dotnetcom\Dotnetcom.Service\obj\Debug\net7.0\Dotnetcom.Service.pdb
